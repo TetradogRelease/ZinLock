@@ -11,3 +11,4 @@ C:\Users\Pingu\Documents\SharpDevelop Projects\ZinLock\ZinLock\obj\Debug\ZinLock
 C:\Users\Pingu\Documents\SharpDevelop Projects\ZinLock\ZinLock\obj\Debug\ZinLock.csproj.GenerateResource.Cache
 C:\Users\Pingu\Documents\SharpDevelop Projects\ZinLock\ZinLock\obj\Debug\ZinLock.dll
 C:\Users\Pingu\Documents\SharpDevelop Projects\ZinLock\ZinLock\obj\Debug\ZinLock.pdb
+C:\Users\Pingu\Documents\SharpDevelop Projects\ZinLock\ZinLock\obj\Debug\ZinLock.csprojResolveAssemblyReference.cache
