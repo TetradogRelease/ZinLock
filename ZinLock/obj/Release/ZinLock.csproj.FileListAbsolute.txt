@@ -1,0 +1,5 @@
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLock\bin\Release\ZinLock.dll
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLock\obj\Release\ZinLock.Sonidos.resources
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLock\obj\Release\ZinLock.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLock\obj\Release\ZinLock.dll
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLock\obj\Release\ZinLock.csprojResolveAssemblyReference.cache

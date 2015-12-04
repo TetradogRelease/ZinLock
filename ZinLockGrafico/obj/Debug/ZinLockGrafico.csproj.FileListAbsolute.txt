@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\bin\Debug\ZinLockGrafico.exe.config
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\bin\Debug\ZinLockGrafico.exe
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\bin\Debug\ZinLockGrafico.pdb
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\bin\Debug\Gabriel.Cat.Utilitats.dll
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\bin\Debug\ZinLock.dll
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\bin\Debug\Gabriel.Cat.Utilitats.pdb
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\bin\Debug\ZinLock.pdb
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\obj\Debug\ZinLockGrafico.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\obj\Debug\ZinLockGrafico.frmNivelesExtra.resources
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\obj\Debug\ZinLockGrafico.MainForm.resources
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\obj\Debug\ZinLockGrafico.NivelExtra.resources
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\obj\Debug\ZinLockGrafico.Resource1.resources
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\obj\Debug\ZinLockGrafico.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\obj\Debug\ZinLockGrafico.exe
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\obj\Debug\ZinLockGrafico.pdb

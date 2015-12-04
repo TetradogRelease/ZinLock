@@ -1,0 +1,8 @@
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockConsola\bin\Debug\ZinLockConsola.exe.config
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockConsola\bin\Debug\ZinLockConsola.exe
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockConsola\bin\Debug\ZinLockConsola.pdb
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockConsola\bin\Debug\ZinLock.dll
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockConsola\bin\Debug\ZinLock.pdb
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockConsola\obj\Debug\ZinLockConsola.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockConsola\obj\Debug\ZinLockConsola.exe
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockConsola\obj\Debug\ZinLockConsola.pdb

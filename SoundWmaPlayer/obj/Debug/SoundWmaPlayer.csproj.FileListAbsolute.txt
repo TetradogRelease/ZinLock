@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\SoundWmaPlayer\bin\Debug\SoundWmaPlayer.exe.config
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\SoundWmaPlayer\bin\Debug\SoundWmaPlayer.exe
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\SoundWmaPlayer\bin\Debug\SoundWmaPlayer.pdb
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\SoundWmaPlayer\obj\Debug\SoundWmaPlayer.exe
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\SoundWmaPlayer\obj\Debug\SoundWmaPlayer.pdb
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\SoundWmaPlayer\obj\Debug\SoundWmaPlayer.csprojResolveAssemblyReference.cache

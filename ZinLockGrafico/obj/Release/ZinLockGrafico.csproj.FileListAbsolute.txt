@@ -1,0 +1,12 @@
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\bin\Release\ZinLockGrafico.exe.config
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\bin\Release\ZinLockGrafico.exe
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\bin\Release\ZinLock.dll
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\obj\Release\ZinLockGrafico.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\obj\Release\ZinLockGrafico.MainForm.resources
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\obj\Release\ZinLockGrafico.Resource1.resources
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\obj\Release\ZinLockGrafico.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\obj\Release\ZinLockGrafico.exe
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\bin\Release\Gabriel.Cat.Utilitats.dll
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\bin\Release\Gabriel.Cat.Utilitats.pdb
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\obj\Release\ZinLockGrafico.frmNivelesExtra.resources
+C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLockGrafico\obj\Release\ZinLockGrafico.NivelExtra.resources
