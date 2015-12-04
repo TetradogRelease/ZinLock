@@ -5,3 +5,9 @@ C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLock\obj\Debug\ZinLo
 C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLock\obj\Debug\ZinLock.dll
 C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLock\obj\Debug\ZinLock.pdb
 C:\Users\Gabriel\Documents\SharpDevelop Projects\ZinLock\ZinLock\obj\Debug\ZinLock.csprojResolveAssemblyReference.cache
+C:\Users\Pingu\Documents\SharpDevelop Projects\ZinLock\ZinLock\bin\Debug\ZinLock.dll
+C:\Users\Pingu\Documents\SharpDevelop Projects\ZinLock\ZinLock\bin\Debug\ZinLock.pdb
+C:\Users\Pingu\Documents\SharpDevelop Projects\ZinLock\ZinLock\obj\Debug\ZinLock.Sonidos.resources
+C:\Users\Pingu\Documents\SharpDevelop Projects\ZinLock\ZinLock\obj\Debug\ZinLock.csproj.GenerateResource.Cache
+C:\Users\Pingu\Documents\SharpDevelop Projects\ZinLock\ZinLock\obj\Debug\ZinLock.dll
+C:\Users\Pingu\Documents\SharpDevelop Projects\ZinLock\ZinLock\obj\Debug\ZinLock.pdb

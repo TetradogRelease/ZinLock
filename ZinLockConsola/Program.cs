@@ -51,6 +51,7 @@ namespace ZinLockConsola
 		static Thread hiloMusica;
 		public static void Main(string[] args)
 		{
+            puedeMoverse = true;
 			partidaOn = true;
 			jugador = new Jugador();
 			partida = new ZinLock.PartidaZinLock();

@@ -6,6 +6,7 @@
  * 
  * Para cambiar esta plantilla use Herramientas | Opciones | Codificación | Editar Encabezados Estándar
  */
+using Gabriel.Cat.WindowsForms;
 namespace ZinLockGrafico
 {
 	partial class MainForm
@@ -21,7 +22,7 @@ namespace ZinLockGrafico
 		private ZinLockGrafico.Mapa mapaJugador;
 		private ZinLockGrafico.Mapa mapaSolucion;
 		private System.Windows.Forms.Panel pnlSoundTrack;
-		private Gabriel.Cat.Etiqueta lblNivel;
+		private Etiqueta lblNivel;
 		
 		/// <summary>
 		/// Disposes resources used by the form.

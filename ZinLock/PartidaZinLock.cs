@@ -156,8 +156,9 @@ namespace ZinLock
 		}
 		public void Empieza()
 		{
+            vidas = 3;
 			ResetNivel();
-			vidas = 3;
+			
 			
 		}
 		public void Play()

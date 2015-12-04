@@ -10,7 +10,7 @@ using System;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
-using Gabriel.Cat;
+using Gabriel.Cat.Extension;
 namespace ZinLockGrafico
 {
 	/// <summary>

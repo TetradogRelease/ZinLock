@@ -33,6 +33,13 @@
     <DefineConstants>TRACE</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Gabriel.Cat.Utilitats, Version=1.0.5660.29272, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Gabriel.Cat.Utilitats\bin\Release\Gabriel.Cat.Utilitats.dll</HintPath>
+    </Reference>
+    <Reference Include="Gabriel.Cat.WindowsForms">
+      <HintPath>..\..\Gabriel.Cat.WindowsForms\bin\Debug\Gabriel.Cat.WindowsForms.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp">
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
     </Reference>
@@ -52,23 +59,33 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ficha.cs" />
+    <Compile Include="Ficha.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="Ficha.Designer.cs">
       <DependentUpon>Ficha.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmNivelesExtra.cs" />
+    <Compile Include="frmNivelesExtra.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmNivelesExtra.Designer.cs">
       <DependentUpon>frmNivelesExtra.cs</DependentUpon>
     </Compile>
-    <Compile Include="MainForm.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Mapa.cs" />
+    <Compile Include="Mapa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="Mapa.Designer.cs">
       <DependentUpon>Mapa.cs</DependentUpon>
     </Compile>
-    <Compile Include="NivelExtra.cs" />
+    <Compile Include="NivelExtra.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="NivelExtra.Designer.cs">
       <DependentUpon>NivelExtra.cs</DependentUpon>
     </Compile>
@@ -83,10 +100,6 @@
     <None Include="app.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Programacion\Gabriel.Cat.Utilitats\Gabriel.Cat.Utilitats.csproj">
-      <Project>{D60D408F-9802-4562-82A1-528BA7202B44}</Project>
-      <Name>Gabriel.Cat.Utilitats</Name>
-    </ProjectReference>
     <ProjectReference Include="..\ZinLock\ZinLock.csproj">
       <Project>{8604F641-3783-434F-A8D2-5EB91E7BA21E}</Project>
       <Name>ZinLock</Name>

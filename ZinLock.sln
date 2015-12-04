@@ -1,7 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-# SharpDevelop 5.0
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZinLock", "ZinLock\ZinLock.csproj", "{8604F641-3783-434F-A8D2-5EB91E7BA21E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZinLockConsola", "ZinLockConsola\ZinLockConsola.csproj", "{D733D431-F8F7-4189-B070-C5BD2E15876E}"
@@ -9,8 +8,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundWmaPlayer", "SoundWmaPlayer\SoundWmaPlayer.csproj", "{5954EB52-57E8-4905-B228-A95AFC5ED539}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZinLockGrafico", "ZinLockGrafico\ZinLockGrafico.csproj", "{90DA78A8-C44F-48F1-9240-6EBAAC132B1C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gabriel.Cat.Utilitats", "..\..\Programacion\Gabriel.Cat.Utilitats\Gabriel.Cat.Utilitats.csproj", "{D60D408F-9802-4562-82A1-528BA7202B44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -34,9 +31,8 @@ Global
 		{90DA78A8-C44F-48F1-9240-6EBAAC132B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90DA78A8-C44F-48F1-9240-6EBAAC132B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90DA78A8-C44F-48F1-9240-6EBAAC132B1C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D60D408F-9802-4562-82A1-528BA7202B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D60D408F-9802-4562-82A1-528BA7202B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D60D408F-9802-4562-82A1-528BA7202B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D60D408F-9802-4562-82A1-528BA7202B44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
